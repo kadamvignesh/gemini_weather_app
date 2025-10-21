@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Weather",
+  "description": "A simple and beautiful weather application that provides real-time weather conditions for any city in the world, powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
